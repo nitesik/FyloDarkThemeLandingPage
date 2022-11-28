@@ -1,38 +1,23 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media (min-width: 1150px) {
+  .App {
+    height: max-content;
+    background-repeat: no-repeat;
+    background-image: url("./Components/Images/bg-curvy-desktop.svg"), linear-gradient(hsl(217, 28%, 15%) 48%, hsl(218, 28%, 13%) 0%);
+    background-size: contain;
+    background-color: hsl(217, 28%, 15%);
+    background-position-y: 35%;
   }
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 11490px) {
+  .App {
+    height: max-content;
+    background-repeat: no-repeat;
+    background-image: url("./Components/Images/bg-curvy-desktop.svg"), linear-gradient(hsl(217, 28%, 15%) 2.9%, hsl(218, 28%, 13%) 0%);
+    background-size: contain;
+    background-color: hsl(217, 28%, 15%);
+    background-position-y: 275px;
   }
-  to {
-    transform: rotate(360deg);
-  }
+  
 }
