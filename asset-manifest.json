@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FyloDarkThemeLandingPage/static/css/main.c51e50d8.css",
+    "main.js": "/FyloDarkThemeLandingPage/static/js/main.1d7ce3d1.js",
+    "static/js/787.74c005f6.chunk.js": "/FyloDarkThemeLandingPage/static/js/787.74c005f6.chunk.js",
+    "static/media/illustration-intro.png": "/FyloDarkThemeLandingPage/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/FyloDarkThemeLandingPage/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/icon-collaboration.svg": "/FyloDarkThemeLandingPage/static/media/icon-collaboration.6c80c0a4c84274f029eb51c36f603765.svg",
+    "static/media/logo.svg": "/FyloDarkThemeLandingPage/static/media/logo.f5363383bf279490c4aba63ca2917a80.svg",
+    "static/media/icon-access-anywhere.svg": "/FyloDarkThemeLandingPage/static/media/icon-access-anywhere.2856c661b15230024a11eb4b089dd3f1.svg",
+    "static/media/icon-any-file.svg": "/FyloDarkThemeLandingPage/static/media/icon-any-file.fc9b91ba9923102f3aa45c19bc3244e6.svg",
+    "static/media/icon-security.svg": "/FyloDarkThemeLandingPage/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
+    "static/media/icon-arrow.svg": "/FyloDarkThemeLandingPage/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
+    "index.html": "/FyloDarkThemeLandingPage/index.html",
+    "static/media/bg-curvy-desktop.svg": "/FyloDarkThemeLandingPage/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d.svg",
+    "static/media/icon-phone.svg": "/FyloDarkThemeLandingPage/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/FyloDarkThemeLandingPage/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/FyloDarkThemeLandingPage/static/media/icon-email.201ea9e2e87effbe720d0f8b77fba022.svg",
+    "main.c51e50d8.css.map": "/FyloDarkThemeLandingPage/static/css/main.c51e50d8.css.map",
+    "main.1d7ce3d1.js.map": "/FyloDarkThemeLandingPage/static/js/main.1d7ce3d1.js.map",
+    "787.74c005f6.chunk.js.map": "/FyloDarkThemeLandingPage/static/js/787.74c005f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51e50d8.css",
+    "static/js/main.1d7ce3d1.js"
+  ]
+}
